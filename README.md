@@ -1,7 +1,7 @@
 Image Classification using VGG16 (Medical Imaging - Brain_MRI)
 
--Dataset - https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation
--PretrainedModel - https://drive.google.com/file/d/1z6jhOK7gzT8J8mbIeCnV4tIg8xBMXw0I/view?usp=sharing
+- Dataset - https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation
+- PretrainedModel - https://drive.google.com/file/d/1z6jhOK7gzT8J8mbIeCnV4tIg8xBMXw0I/view?usp=sharing
 
 List of Tested Models With Accuracy (Augmentation_type => (flip))
 Model - loss accuracy validation_loss validation_acc size_of_image
